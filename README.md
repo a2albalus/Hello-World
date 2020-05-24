@@ -1,4 +1,3 @@
 # Hello-World
 
-This program contains fluffy things
-That were created by someone chubby
+This is the first project. It is a tradition in programming to write a 'Hello World' program first.
